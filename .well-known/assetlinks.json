@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "de.c3nav.droid",
+    "sha256_cert_fingerprints":
+    ["C1:EC:2D:06:2F:67:A4:3F:87:CC:F9:5B:80:96:63:02:85:E1:B2:57:7D:C8:03:A0:82:65:39:DF:6F:B4:C9:5D"]
+  }
+}]
